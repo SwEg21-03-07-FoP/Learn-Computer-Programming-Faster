@@ -27,4 +27,4 @@ When you get your hands on sample code, it’s easy to just read through it and 
 Learning how to code is exciting and even a bit daunting at first. But when you choose the right coding boot camp or educational program and apply these tips, you’re going to get all the information and skills you need to start a prolific coding career. Remember that every coder struggles a bit when they’re first starting out, and you shouldn’t expect anything different from yourself. It’s simply part of the learning process. But if you stick to it, and you’ll learn these skills faster than you ever thought possible.
 
 # Acknowldegment 
-[Use These 7 Tips to Help You Learn Computer Programming Faster](https://bootcamp.berkeley.edu/blog/use-these-7-tips-to-help-you-learn-computer-programming-faster/)
+Use These 7 Tips to Help You Learn Computer Programming Faster
